@@ -1,1 +1,1 @@
-print('hello world')
+print('hello world  发射点发生')
